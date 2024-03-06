@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on Forecasting using R
 - 🌱 I’m currently learning R for Data science in Finance and FP&A
 - 👯 Have a look at my short presentation about my prefered solutions in BI here https://md3629.github.io/
-- feel free to check out my repositories and contact me if you need any help
+- :shipit: check out my repositories and contact me if you need any help
 
