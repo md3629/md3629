@@ -13,7 +13,7 @@ graph TD;
     R-->DataScience;
     MyGitHub-->DataScience;
     MyGitHub-->MacroEconomics;
-    DataScience-->Optimization;
+    DataScience-->Modeling;
     DataScience-->Forecasting;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
