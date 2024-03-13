@@ -12,6 +12,7 @@ graph TD;
     FP&A-->Budget;
     R-->DataScience;
     MyGitHub-->DataScience;
+    MyGitHub-->MacroEconomics;
     DataScience-->Forecasting;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
