@@ -6,4 +6,10 @@
 - Have a look at my short presentation about my prefered solutions in BI 👉 [:computer:](https://md3629.github.io/)
 - check out my repositories :point_down: and :black_nib: if you need any help
 
-
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
