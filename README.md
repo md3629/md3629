@@ -8,8 +8,8 @@
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    My GitHub-->FP&A;
+    My GitHub-->Data Science;
+    My GitHub-->Power BI with R;
+    My GitHub-->D;
 ```
