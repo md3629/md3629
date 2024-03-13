@@ -14,8 +14,6 @@ graph TD;
     MyGitHub-->DataScience;
     MyGitHub-->MacroEconomics;
     DataScience-->Optimization;
-    Optimization-->MMM;
-    Optimization-->Chain;
     DataScience-->Forecasting;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
