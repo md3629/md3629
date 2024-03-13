@@ -9,6 +9,7 @@
 ```mermaid
 graph TD;
     MyGitHub-->FP&A;
+    FP&A-->Budget;
     MyGitHub-->DataScience;
     MyGitHub-->Power_BI_with_R;
     MyGitHub-->MacroEconomics;
