@@ -21,6 +21,7 @@ graph TD;
     Budget-->Power_BI_with_R;
     Budget-->Excel_BI;
     DAX-->Excel_BI;
+    M-->Excel_BI;
     Excel_BI-->Power_BI_with_R;
     Excel_BI-->MDX;
 ```
