@@ -10,6 +10,7 @@
 graph TD;
     MyGitHub-->FP&A;
     FP&A-->Budget;
+    R-->DataScience;
     MyGitHub-->DataScience;
     DataScience-->Forecasting;
     DataScience-->Clustering;
