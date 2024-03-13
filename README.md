@@ -9,7 +9,7 @@
 ```mermaid
 graph TD;
     MyGitHub-->'FP&A';
-    MyGitHub-->'Data Science';
-    MyGitHub-->'Power BI with R';
+    MyGitHub-->'DataScience';
+    MyGitHub-->'Power_BI_with_R';
     MyGitHub-->D;
 ```
