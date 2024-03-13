@@ -16,4 +16,7 @@ graph TD;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
     Uncertainity-->Power_BI_with_R;
+    MacroEconomics-->Power_BI_with_R;
+    Forecasting-->Power_BI_with_R;
+    Clustering-->Power_BI_with_R;
 ```
