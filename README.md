@@ -19,4 +19,6 @@ graph TD;
     MacroEconomics-->Power_BI_with_R;
     Forecasting-->Power_BI_with_R;
     Clustering-->Power_BI_with_R;
+    Budget-->Power_BI_with_R;
+    Budget-->Excel_BI;
 ```
