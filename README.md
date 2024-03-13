@@ -13,4 +13,7 @@ graph TD;
     MyGitHub-->DataScience;
     MyGitHub-->Power_BI_with_R;
     MyGitHub-->MacroEconomics;
+    DataScience-->Forecasting;
+    DataScience-->Clustering;
+    DataScience-->Uncertainity;
 ```
