@@ -19,6 +19,6 @@ graph TD;
     Clustering-->Power_BI_with_R;
     Budget-->Power_BI_with_R;
     Budget-->Excel_BI;
-    Forecasting-->Budget;
+    DAX-->Excel_BI;
     Excel_BI-->Power_BI_with_R;
 ```
