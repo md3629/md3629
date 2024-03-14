@@ -17,13 +17,13 @@ graph TD;
     DataScience-->Forecasting;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
-    Uncertainity-->Power_BI_with_R;
-    Forecasting-->Power_BI_with_R;
-    Clustering-->Power_BI_with_R;
-    Budget-->Power_BI_with_R;
+    Uncertainity-->Power_BI;
+    Forecasting-->Power_BI;
+    Clustering-->Power_BI;
+    Budget-->Power_BI;
     Budget-->Excel_BI;
     DAX-->Excel_BI;
     M-->Excel_BI;
-    Excel_BI-->Power_BI_with_R;
+    Excel_BI-->Power_BI;
     Excel_BI-->MDX;
 ```
