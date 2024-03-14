@@ -22,9 +22,9 @@ graph TD;
     Forecasting-->P((Power<br>BI));
     Clustering-->P((Power<br>BI));
     Budget-->P((Power<br>BI));
-    Budget-->E((Excel<br>BI));
-    D(DAX)-->E((Excel<br>BI));
-    M(M)-->E((Excel<br>BI));
-    E((Excel<br>BI))-->P((Power<br>BI));
-    E((Excel<br>BI))-->A(MDX);
+    Budget-->E((Excel));
+    D(DAX)-->E((Excel));
+    M(M)-->E((Excel));
+    E((Excel))-->P((Power<br>BI));
+    E((Excel))-->A(MDX);
 ```
