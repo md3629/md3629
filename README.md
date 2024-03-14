@@ -8,12 +8,12 @@
 
 ```mermaid
 graph TD;
-    MyGitHub-->|Repository|FP&A;
+    my(MyGitHub)-->|Repository|FP&A;
     Inv[/Inventory<br>Management/]-->|Repository|Budget;
     FP&A-->|Repository|Budget;
     R( R )-->DataScience;
-    X(MyGitHub)-->|Repository|DataScience;
-    X(MyGitHub)-->|Repository|MacroEconomics;
+    my(MyGitHub)-->|Repository|DataScience;
+    my(MyGitHub)-->|Repository|MacroEconomics;
     DataScience-->Modeling;
     DataScience--Repository-->Forecasting;
     DataScience--Repository-->Clustering;
