@@ -22,8 +22,8 @@ graph TD;
     Clustering-->PowerBI;
     Budget-->PowerBI;
     Budget-->E(Excel BI);
-    DAX-->ExcelBI;
-    M-->ExcelBI;
-    ExcelBI-->PowerBI;
-    ExcelBI-->MDX;
+    DAX-->E(Excel BI);
+    M-->E(Excel BI);
+    E(Excel BI)-->PowerBI;
+    E(Excel BI)-->MDX;
 ```
