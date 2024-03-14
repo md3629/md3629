@@ -8,11 +8,11 @@
 
 ```mermaid
 graph TD;
-    MyGitHub-->|Reposit0ry|FP&A;
-    FP&A-->|Reposit0ry|Budget;
+    MyGitHub-->|Repository|FP&A;
+    FP&A-->|Repository|Budget;
     R-->DataScience;
-    MyGitHub-->|Reposit0ry|DataScience;
-    MyGitHub-->|Reposit0ry|MacroEconomics;
+    MyGitHub-->|Repository|DataScience;
+    MyGitHub-->|Repository|MacroEconomics;
     DataScience-->Modeling;
     DataScience-->Forecasting;
     DataScience-->Clustering;
