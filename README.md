@@ -18,13 +18,13 @@ graph TD;
     DataScience-->Forecasting;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
-    Uncertainity-->P(Power BI);
-    Forecasting-->P(Power BI);
-    Clustering-->P(Power BI);
-    Budget-->P(Power BI);
+    Uncertainity-->P((Power BI));
+    Forecasting-->P((Power BI));
+    Clustering-->P((Power BI));
+    Budget-->P((Power BI));
     Budget-->E(Excel BI);
     DAX-->E(Excel BI);
     M-->E(Excel BI);
-    E(Excel BI)-->P(Power BI);
+    E(Excel BI)-->P((Power BI));
     E(Excel BI)-->MDX;
 ```
