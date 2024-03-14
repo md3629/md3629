@@ -9,7 +9,7 @@
 ```mermaid
 graph TD;
     MyGitHub-->|Repository|FP&A;
-    InventoryManagement-->Budget;
+    Inv{Inventory Management}-->Budget;
     FP&A-->|Repository|Budget;
     R-->DataScience;
     MyGitHub-->|Repository|DataScience;
