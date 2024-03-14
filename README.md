@@ -14,7 +14,7 @@ graph TD;
     R( R )-->DataScience;
     MyGitHub-->|Repository|DataScience;
     MyGitHub-->|Repository|MacroEconomics;
-    DataScience-->Modeling;
+    DataScience--Repository-->Modeling;
     DataScience-->Forecasting;
     DataScience-->Clustering;
     DataScience-->Uncertainity;
