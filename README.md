@@ -28,6 +28,4 @@ graph TD;
     E((Excel))-->P((Power<br>BI));
     E((Excel))--A(MDX);
 
-classDef green fill:#9f6,stroke:#333,stroke-width:2px;
-class C green
 ```
