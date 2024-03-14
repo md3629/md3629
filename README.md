@@ -25,8 +25,8 @@ graph TD;
     Budget-->E((Excel));
     D(DAX)-->E((Excel));
     M(M)-->E((Excel));
-    E((Excel))<-->P((Power<br>BI));
-    E((Excel))<--A(MDX);
+    E((Excel))-->P((Power<br>BI));
+    E((Excel))--A(MDX);
 
 classDef green fill:#9f6,stroke:#333,stroke-width:2px;
 class X green
