@@ -11,7 +11,7 @@ graph TD;
     MyGitHub-->|Repository|FP&A;
     Inv[/Inventory<br>Management/]-->|Repository|Budget;
     FP&A-->|Repository|Budget;
-    R(R)-->DataScience;
+    R( R )-->DataScience;
     MyGitHub-->|Repository|DataScience;
     MyGitHub-->|Repository|MacroEconomics;
     DataScience-->Modeling;
