@@ -23,9 +23,9 @@ graph TD;
     Clustering-->P((Power<br>BI));
     Budget-->P((Power<br>BI));
     Budget-->E((Excel));
-    D(DAX)--xE((Excel));
-    M(M)--xE((Excel));
+    D(DAX)x--xE((Excel));
+    M(M)x--xE((Excel));
     E((Excel))<-.->P((Power<br>BI));
-    A(MDX)--xE((Excel));
+    A(MDX)x--xE((Excel));
 
 ```
