@@ -8,7 +8,7 @@
 
 ```mermaid
 graph TD;
-    MyGitHub-->|Repository|FP&A;
+    X(MyGitHub)-->|Repository|FP&A;
     Inv[/Inventory<br>Management/]-->|Repository|Budget;
     FP&A-->|Repository|Budget;
     R( R )-->DataScience;
@@ -29,4 +29,5 @@ graph TD;
     E((Excel))-->A(MDX);
 
 classDef green fill:#9f6,stroke:#333,stroke-width:2px;
+class X green
 ```
