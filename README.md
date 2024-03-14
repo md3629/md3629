@@ -8,7 +8,7 @@
 
 ```mermaid
 graph TD;
-    MyGitHub-->FP&A;
+    MyGitHub-->|Repositry|FP&A;
     FP&A-->Budget;
     R-->DataScience;
     MyGitHub-->DataScience;
