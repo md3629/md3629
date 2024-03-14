@@ -21,7 +21,7 @@ graph TD;
     Forecasting-->PowerBI;
     Clustering-->PowerBI;
     Budget-->PowerBI;
-    Budget-->ExcelBI;
+    Budget-->E(Excel BI);
     DAX-->ExcelBI;
     M-->ExcelBI;
     ExcelBI-->PowerBI;
