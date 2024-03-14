@@ -24,7 +24,7 @@ graph TD;
     Budget-->P((Power<br>BI));
     Budget-->E((Excel<br>BI));
     D(DAX)-->E((Excel<br>BI));
-    M(M-)->E((Excel<br>BI));
+    M(M)-->E((Excel<br>BI));
     E((Excel<br>BI))-->P((Power<br>BI));
     E((Excel<br>BI))-->A(MDX);
 ```
