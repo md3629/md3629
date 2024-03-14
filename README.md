@@ -11,7 +11,7 @@ graph TD;
     MyGitHub-->|Repository|FP&A;
     Inv[/Inventory<br>Management/]-->|Repository|Budget;
     FP&A-->|Repository|Budget;
-    R((R))-->DataScience;
+    R(R)-->DataScience;
     MyGitHub-->|Repository|DataScience;
     MyGitHub-->|Repository|MacroEconomics;
     DataScience-->Modeling;
@@ -24,7 +24,7 @@ graph TD;
     Budget-->P((Power<br>BI));
     Budget-->E((Excel<br>BI));
     D(DAX)-->E((Excel<br>BI));
-    M-->E((Excel<br>BI));
+    M(M-)->E((Excel<br>BI));
     E((Excel<br>BI))-->P((Power<br>BI));
-    E((Excel<br>BI))-->MDX;
+    E((Excel<br>BI))-->A(MDX);
 ```
