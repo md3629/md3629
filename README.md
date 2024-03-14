@@ -24,6 +24,6 @@ graph TD;
     Budget-->ExcelBI;
     DAX-->ExcelBI;
     M-->ExcelBI;
-    ExcelBI-->"Power BI";
+    ExcelBI-->PowerBI;
     ExcelBI-->MDX;
 ```
