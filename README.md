@@ -14,7 +14,7 @@ graph TD;
     
     my(MyGitHub)-->|Repository|DataScience;
     my(MyGitHub)-->|Repository|MacroEconomics;
-    DataScience-->Modeling;
+    
     DataScience--Repository-->Forecasting;
     DataScience--Repository-->Segmentation;
     DataScience--Repository-->Uncertainity;
