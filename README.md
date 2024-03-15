@@ -27,6 +27,6 @@ graph TD;
     M(M)x--xE((Excel));
     E((Excel))<-.->P((Power<br>BI));
     A(MDX)x--xE((Excel));
-    D(DAX)x--xP((Power<br>BI));
+    DD(DAX)x--xP((Power<br>BI));
 
 ```
