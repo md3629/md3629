@@ -1,5 +1,5 @@
 ### Hi there 👋
--[x] I use **M** for data transformation (_ETL_), **DAX** and **R** for data visualisation and analysis, and **SQL** for data query
+- [x] I use **M** for data transformation (_ETL_), **DAX** and **R** for data visualisation and analysis, and **SQL** for data query
 
 ```mermaid
 graph TD;
