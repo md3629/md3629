@@ -1,7 +1,6 @@
 ### Hi there 👋
 - I use **M** for data transformation (_ETL_), **DAX** and **R** for data visualisation and analysis, and **SQL** for data query
 - Have a look at my short presentation about my prefered solutions in BI 👉 [:computer:](https://md3629.github.io/)
-- check out my repositories :point_down: and :black_nib: if you need any help
 
 ```mermaid
 graph TD;
@@ -30,7 +29,7 @@ graph TD;
 - [x] Forecasting: https://github.com/md3629/FPA/blob/main/Budget/data/Budget%20-%20Top%20Down.pbix
 - [ ] Sales backlog analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/SalesBacklog/SalesBacklog.xlsx
 - [ ] Financial Summaries https://github.com/md3629/FPA/blob/main/data/Exec%20Summary%20with%20Budget.xlsx
-- [ ] Uncertainity (R scripts)
-- [ ] https://github.com/md3629/FPA/blob/main/FinancialDetails/InventoryManagement/Inventory%20Analysis.pbix
+- [ ] Uncertainity (R scripts): https://github.com/md3629/Data-Science/tree/main/Predictive-Analytics
+- [ ] Inventory Analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/InventoryManagement/Inventory%20Analysis.pbix
 
-
+- check out all my repositories :point_down: and :black_nib: if you need any help
