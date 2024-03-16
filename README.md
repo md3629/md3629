@@ -27,9 +27,8 @@ graph TD;
 ### Samples in Excel, Power BI or R
 - [x] Budgeting (bottom up): https://github.com/md3629/FPA/blob/main/Budget/data/Model.xlsx
 - [x] Forecasting: https://github.com/md3629/FPA/blob/main/Budget/data/Budget%20-%20Top%20Down.pbix
-- [ ] Sales backlog analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/SalesBacklog/SalesBacklog.xlsx
-- [ ] Financial Summaries https://github.com/md3629/FPA/blob/main/data/Exec%20Summary%20with%20Budget.xlsx
-- [ ] Uncertainity (R scripts): https://github.com/md3629/Data-Science/tree/main/Predictive-Analytics
-- [ ] Inventory Analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/InventoryManagement/Inventory%20Analysis.pbix
-
-- check out all my repositories :point_down: and :black_nib: if you need any help
+- [x] Sales backlog analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/SalesBacklog/SalesBacklog.xlsx
+- [x] Financial Summaries https://github.com/md3629/FPA/blob/main/data/Exec%20Summary%20with%20Budget.xlsx
+- [x] Uncertainity (R scripts): https://github.com/md3629/Data-Science/tree/main/Predictive-Analytics
+- [x] Inventory Analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/InventoryManagement/Inventory%20Analysis.pbix
+- [ ] check out all my repositories :point_down: and :black_nib: if you need any help
