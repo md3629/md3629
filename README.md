@@ -4,7 +4,7 @@
 - check out my repositories :point_down: and :black_nib: if you need any help
 
 ### Sample work in Excel, Power BI or R
-- [x] Budgeting
+- [x] Budgeting (bottom up): [sample](https://github.com/md3629/FPA/blob/main/Budget/data/Model.xlsx)
 - [x] Forecasting
 
 
