@@ -8,10 +8,8 @@ graph TD;
     my(MyGitHub)-->|Repository|FP&A;
     Inv[/Inventory<br>Management/]-->|Repository|Budget;
     FP&A-->|Repository|Budget;
-    
     my(MyGitHub)-->|Repository|DataScience;
     my(MyGitHub)-->|Repository|MacroEconomics;
-    
     DataScience--Repository-->Forecasting;
     DataScience--Repository-->Segmentation;
     DataScience--Repository-->Uncertainity;
@@ -19,7 +17,6 @@ graph TD;
     Forecasting-->P((Power<br>BI));
     Segmentation-->P((Power<br>BI));
     Budget-->P((Power<br>BI));
-    
     D(DAX)x--xE((Excel));
     M(M)x--xE((Excel));
     E((Excel))<-.->P((Power<br>BI));
@@ -28,8 +25,12 @@ graph TD;
     P((Power<br>BI))<-->SSAS;
 ```
 
-### Sample work in Excel, Power BI or R
-- [x]  #739 Budgeting (bottom up): https://github.com/md3629/FPA/blob/main/Budget/data/Model.xlsx
+### Samples in Excel, Power BI or R
+- [x] Budgeting (bottom up): https://github.com/md3629/FPA/blob/main/Budget/data/Model.xlsx
 - [x] Forecasting: https://github.com/md3629/FPA/blob/main/Budget/data/Budget%20-%20Top%20Down.pbix
+- [ ] Sales backlog analysis https://github.com/md3629/FPA/blob/main/FinancialDetails/SalesBacklog/SalesBacklog.xlsx
+- [ ] Financial Summaries https://github.com/md3629/FPA/blob/main/data/Exec%20Summary%20with%20Budget.xlsx
+- [ ] Uncertainity (R scripts)
+- [ ] https://github.com/md3629/FPA/blob/main/FinancialDetails/InventoryManagement/Inventory%20Analysis.pbix
 
- #739
+
