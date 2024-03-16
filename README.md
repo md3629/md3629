@@ -29,5 +29,7 @@ graph TD;
 ```
 
 ### Sample work in Excel, Power BI or R
-- [x] Budgeting (bottom up): https://github.com/md3629/FPA/blob/main/Budget/data/Model.xlsx
+- [x]  #739 Budgeting (bottom up): https://github.com/md3629/FPA/blob/main/Budget/data/Model.xlsx
 - [x] Forecasting: https://github.com/md3629/FPA/blob/main/Budget/data/Budget%20-%20Top%20Down.pbix
+
+ #739
