@@ -1,6 +1,5 @@
 ### Hi there 👋
 - I use **M** for data transformation (_ETL_), **DAX** and **R** for data visualisation and analysis, and **SQL** for data query
-- Have a look at my short presentation about my prefered solutions in BI 👉 [:computer:](https://md3629.github.io/)
 
 ```mermaid
 graph TD;
