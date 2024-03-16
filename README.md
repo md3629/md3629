@@ -23,4 +23,4 @@ graph TD;
     P((Power<br>BI))<-->SSAS;
 ```
 
-- [ ] check out all my repositories :point_down: and :black_nib: if you need any help
+- [ ] check out all my repositories :point_down: 
