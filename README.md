@@ -6,6 +6,7 @@ graph TD;
     my(MyGitHub)-->|Repository|FP&A;
     Inv[/Inventory<br>Management/]-->|Repository|Budget;
     FP&A-->|Repository|Budget;
+    FP&A-->|Repository|Reporting;
     my(MyGitHub)-->|Repository|DataScience;
     my(MyGitHub)-->|Repository|MacroEconomics;
     DataScience--Repository-->Forecasting;
