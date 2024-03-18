@@ -6,8 +6,9 @@ graph TD;
     my(MyGitHub)-->|Repository|FP&A;
     FP&A-->|Repository|Reporting;
     FP&A-->|Repository|Budget;
-    R-->DataScience;
+    
     my(MyGitHub)-->|Repository|DataScience;
+    R-->DataScience;
     my(MyGitHub)-->|Repository|MacroEconomics;
     DataScience--Repository-->Forecasting;
     DataScience--Repository-->Segmentation;
