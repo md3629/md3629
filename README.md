@@ -7,7 +7,7 @@ graph TD;
     FP&A-->|Repository|Reporting;
     FP&A-->|Repository|Budget;
     
-    my(MyGitHub)-->|Repository|DataScience;
+    my(MyGitHub)-->|Repository|a((DataScience));
     
     my(MyGitHub)-->|Repository|MacroEconomics;
     a(DataScience)--Repository-->Forecasting;
