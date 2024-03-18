@@ -10,9 +10,9 @@ graph TD;
     my(MyGitHub)-->|Repository|DataScience;
     
     my(MyGitHub)-->|Repository|MacroEconomics;
-    DataScience--Repository-->Forecasting;
-    DataScience--Repository-->Segmentation;
-    DataScience--Repository-->Uncertainity;
+    a(DataScience)--Repository-->Forecasting;
+    a(DataScience)--Repository-->Segmentation;
+    a(DataScience)--Repository-->Uncertainity;
     Uncertainity-->P((Power<br>BI));
     Forecasting-->P((Power<br>BI));
     Segmentation-->P((Power<br>BI));
@@ -23,7 +23,7 @@ graph TD;
     A(MDX)x--xE((Excel));
     E((Excel))<-->SSAS;
     P((Power<br>BI))<-->SSAS;
-    (DataScience)x--x(R);
+    a(DataScience)x--x(R);
 ```
 
 - [ ] check out all my repositories :point_down: 
