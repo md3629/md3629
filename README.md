@@ -8,7 +8,7 @@ graph TD;
     FP&A-->|Repository|Budget;
     
     my(MyGitHub)-->|Repository|DataScience;
-    R-->DataScience;
+    
     my(MyGitHub)-->|Repository|MacroEconomics;
     DataScience--Repository-->Forecasting;
     DataScience--Repository-->Segmentation;
@@ -23,6 +23,7 @@ graph TD;
     A(MDX)x--xE((Excel));
     E((Excel))<-->SSAS;
     P((Power<br>BI))<-->SSAS;
+    R-->DataScience;
 ```
 
 - [ ] check out all my repositories :point_down: 
