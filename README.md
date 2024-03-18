@@ -23,7 +23,7 @@ graph TD;
     A(MDX)x--xE((Excel));
     E((Excel))<-->SSAS;
     P((Power<br>BI))<-->SSAS;
-    a(DataScience)x--R;
+    a((DataScience))x--x((R));
 ```
 
 - [ ] check out all my repositories :point_down: 
