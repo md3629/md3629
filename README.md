@@ -7,12 +7,12 @@ graph TD;
     FP&A-->|Repository|Reporting;
     FP&A-->|Repository|Budget;
     
-    my(MyGitHub)-->|Repository|a((DataScience));
+    my(MyGitHub)-->|Repository|a((DataScience<br> with R));
     
     my(MyGitHub)-->|Repository|MacroEconomics;
-    a(DataScience)--Repository-->Forecasting;
-    a(DataScience)--Repository-->Segmentation;
-    a(DataScience)--Repository-->Uncertainity;
+    a((DataScience<br> with R))--Repository-->Forecasting;
+    a((DataScience<br> with R))--Repository-->Segmentation;
+    a((DataScience<br> with R))--Repository-->Uncertainity;
     Uncertainity-->P((Power<br>BI));
     Forecasting-->P((Power<br>BI));
     Segmentation-->P((Power<br>BI));
