@@ -10,14 +10,8 @@ graph TD;
        
     my(MyGitHub)-->|Repository|MacroEconomics;
     a((DataScience<br> with R))<-->SQL((SQL<br>Server))
-    a((DataScience<br> with R))--Repository-->Forecasting;
-    a((DataScience<br> with R))--Repository-->Segmentation;
-    a((DataScience<br> with R))--Repository-->Uncertainity;
-    Uncertainity-->P((Power<br>BI));
-    Forecasting-->P((Power<br>BI));
-    Segmentation-->P((Power<br>BI));
-    Budget-->P((Power<br>BI));
-    
+    a((DataScience<br> with R))--Repository-->P((Power<br>BI));
+        
     D(DAX)x--xE((Excel));
     M(M)x--xE((Excel));
     
