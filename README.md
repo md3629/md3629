@@ -17,7 +17,7 @@ graph TD;
     Forecasting-->P((Power<br>BI));
     Segmentation-->P((Power<br>BI));
     Budget-->P((Power<br>BI));
-    AML((Azure<br>Machine Learning))-->P((Power<br>BI));
+    AML((Azure<br>Machine<br>Learning))<-->P((Power<br>BI));
     D(DAX)x--xE((Excel));
     M(M)x--xE((Excel));
     E((Excel))<-.->P((Power<br>BI));
