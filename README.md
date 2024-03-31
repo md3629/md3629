@@ -9,7 +9,7 @@ graph TD;
     my(MyGitHub)-->a((DataScience<br> with R))
        
     my(MyGitHub)-->|Repository|MacroEconomics;
-    my(MyGitHub)-->SQL((SQL<br>Server))
+    a((DataScience<br> with R))-->SQL((SQL<br>Server))
     a((DataScience<br> with R))--Repository-->Forecasting;
     a((DataScience<br> with R))--Repository-->Segmentation;
     a((DataScience<br> with R))--Repository-->Uncertainity;
