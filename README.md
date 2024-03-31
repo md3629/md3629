@@ -20,7 +20,7 @@ graph TD;
     AML((Azure<br>Machine<br>Learning))<-->P((Power<br>BI));
     D(DAX)x--xE((Excel));
     M(M)x--xE((Excel));
-    E((Excel))<-.->P((Power<br>BI));
+    
     A(MDX)x--xE((Excel));
     E((Excel))<-->SSAS;
     P((Power<br>BI))<-->SSAS;
